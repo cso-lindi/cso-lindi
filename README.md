@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: On old photos everybody looks younger
 
+_If you find yourself in need of a software solution to a problem that you cannot find online, I'm also offering my services for creating any software you may need._
+
 <!---
 cso-lindi/cso-lindi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
